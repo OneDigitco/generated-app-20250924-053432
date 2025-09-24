@@ -2,7 +2,7 @@
 
 A visually stunning, minimalist to-do list application focused on simplicity and clarity.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/OneDigitco/generated-app-20250924-053432)
 
 Clarity is a visually stunning, minimalist to-do list application designed for focus and simplicity. It provides a clean, clutter-free interface where users can effortlessly manage their daily tasks. Core functionalities include adding, editing, deleting, and marking tasks as complete. The application prioritizes an exceptional user experience through smooth animations, intuitive controls, and a serene visual design. All tasks are persisted in the browser's local storage, ensuring data is saved between sessions without requiring a backend. The UI is built with a mobile-first approach, scaling beautifully from handheld devices to large desktop screens.
 
@@ -85,7 +85,7 @@ This will trigger the Wrangler CLI to build and deploy your application. You wil
 
 Alternatively, you can deploy directly from your GitHub repository.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/OneDigitco/generated-app-20250924-053432)
 
 ## Contributing
 
